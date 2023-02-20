@@ -957,3 +957,31 @@ public static void updateLeftEmpCountOnAcc(List < Employee_c > oldList) {
         update accToßeUpdated;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////// WORK WITH FILES OBJECT IN APEX ////////////////////
+
+CONTENT VERSION --> MEANS FILES
+CONTENT DOCUMENT LINK --> LINKED ENTITY ID MADHE RELATED ID BHETO , JA OBJECT SOBAT FILE RELATED AHE TYACHA ID
+CONTENT DISTRIBUTION --> TO SHARE FILE , TO GIVE ACCESS OF FILE TO OTHER USERS
+
+
+
+////////////////////////// GENERAL NOTE //////////////////////////////
+System mode means running apex code by ignoring users permissions. User mode means running apex code by respecting users permissions and sharing of records
